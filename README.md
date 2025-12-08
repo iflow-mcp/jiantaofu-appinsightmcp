@@ -1,14 +1,12 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jiantaofu-appinsightmcp-badge.png)](https://mseep.ai/app/jiantaofu-appinsightmcp)
 
-# App Market Intelligence MCP
-
-[![smithery badge](https://smithery.ai/badge/@JiantaoFu/appinsightmcp)](https://smithery.ai/server/@JiantaoFu/appinsightmcp)
-
-An MCP server that provides comprehensive market intelligence by analyzing data from both the Apple App Store and Google Play Store. Get insights about apps, market trends, competitors, and user feedback across the major mobile app marketplaces.
-
 <a href="https://glama.ai/mcp/servers/@JiantaoFu/AppInsightMCP">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@JiantaoFu/AppInsightMCP/badge" alt="App Market Intelligence MCP server" />
 </a>
+
+# App Market Intelligence MCP
+
+An MCP server that provides comprehensive market intelligence by analyzing data from both the Apple App Store and Google Play Store. Get insights about apps, market trends, competitors, and user feedback across the major mobile app marketplaces.
 
 ## API Coverage
 
